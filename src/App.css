@@ -28,6 +28,8 @@
   color: #61dafb;
 }
 
+.Home, .Demo { width:50%; height:50%; background-color: blueviolet;}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
